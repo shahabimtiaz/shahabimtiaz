@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shahab Imtiaz</h1>
 <h3 align="center">MERN Stack and PHP Laravel Developer</h3>
 
-
-<img align="center" src="Make your README.png" height="30" width="40" />
-
+<p align=”center”>
+<img  src="Make your README.png" height="200" width="200" alt="my banner" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahabimtiaz&label=Profile%20views&color=0e75b6&style=flat" alt="shahabimtiaz" /> </p>
 
