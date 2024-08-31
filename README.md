@@ -16,8 +16,7 @@
 <a href="https://www.leetcode.com/https://leetcode.com/shahabimtiaz03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shahabimtiaz03" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-## Programming languages + dev/design/business tools I work with daily
+<h3 align="left">Programming languages + dev/design/business tools I work with daily:</h3>
 
 ![.ENV](https://img.shields.io/static/v1?style=for-the-badge&message=.ENV&logoColor=FFFFFF&logo=.ENV&color=ECD53F&label=)
 ![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&logoColor=FFFFFF&logo=Amazon+AWS&color=232F3E&label=)
