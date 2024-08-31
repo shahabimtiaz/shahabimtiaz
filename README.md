@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shahab Imtiaz</h1>
-<h3 align="center">MERN Stack and PHP Laravel Developer</h3>
 
 <p align=”center”>
 <img  src="Make your README.png"  alt="my banner" />
 </p>
-
+<h1 align="center">Hi 👋, I'm Shahab Imtiaz</h1>
+<h3 align="center">MERN Stack and PHP Laravel Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahabimtiaz&label=Profile%20views&color=0e75b6&style=flat" alt="shahabimtiaz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahabimtiaz" alt="shahabimtiaz" /></a> </p>
