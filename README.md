@@ -91,8 +91,5 @@
 ![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&logoColor=FFFFFF&logo=WordPress&color=21759B&label=)
 ![Yarn](https://img.shields.io/static/v1?style=for-the-badge&message=Yarn&logoColor=FFFFFF&logo=Yarn&color=2C8EBB&label=)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahabimtiaz&show_icons=true&locale=en&layout=compact" alt="shahabimtiaz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahabimtiaz&show_icons=true&locale=en" alt="shahabimtiaz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahabimtiaz&" alt="shahabimtiaz" /></p>
+## My GitHub stats
+![shahabimtiaz's Stats](https://github-readme-stats.vercel.app/api?username=shahabimtiaz&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
