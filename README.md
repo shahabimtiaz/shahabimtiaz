@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack and PHP Laravel Developer</h3>
 
 <p align=”center”>
-<img  src="Make your README.png" height="500" width="500" alt="my banner" />
+<img  src="Make your README.png" height="1000" width="1000" alt="my banner" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahabimtiaz&label=Profile%20views&color=0e75b6&style=flat" alt="shahabimtiaz" /> </p>
