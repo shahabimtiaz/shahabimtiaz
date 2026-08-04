@@ -1,9 +1,9 @@
+<p align="center">
+  <img src="Make%20your%20README.png" alt="Shahab Imtiaz banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Shahab Imtiaz</h1>
 <h3 align="center">MERN Stack & PHP Laravel Developer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;MERN+Stack+%7C+PHP+Laravel;Building+fast%2C+scalable+web+apps" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shahabimtiaz&label=Profile%20views&color=0e75b6&style=flat" alt="shahabimtiaz profile views" />
@@ -17,7 +17,7 @@
 
 ### 👋 About Me
 
-Full-stack web developer passionate about crafting elegant, efficient digital solutions. I build responsive, interactive web applications end-to-end — from database design to deployment.
+Full-stack web developer with **5+ years of experience** building responsive, production-grade web applications end-to-end — from database design and API architecture through to deployment. I specialize in the **MERN stack** and **PHP Laravel**, and have delivered projects for clients through Upwork and Fiverr.
 
 - 🌟 Responsive and interactive web applications
 - 🚀 RESTful APIs and microservices architectures
@@ -29,12 +29,17 @@ Full-stack web developer passionate about crafting elegant, efficient digital so
 - 📱 Progressive Web Apps (PWAs) and mobile-responsive design
 - 🌐 SEO best practices and web performance optimization
 
-📫 **Want to work together?** Message me on [Upwork](#) or [Fiverr](#) to discuss your project — happy to talk through scope, timeline, and approach there.
+📫 **Want to work together?** Message me on Upwork or Fiverr to discuss your project — happy to talk through scope, timeline, and approach there.
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.upwork.com/freelancers/~01a5479fd2d6c87165" target="_blank">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hire+on+Upwork&logoColor=FFFFFF&logo=Upwork&color=6FDA44&label=" alt="Hire me on Upwork" />
+  </a>
+  <a href="https://www.fiverr.com/shahabimtiaz76" target="_blank">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hire+on+Fiverr&logoColor=FFFFFF&logo=Fiverr&color=1DBF73&label=" alt="Hire me on Fiverr" />
+  </a>
   <a href="https://www.linkedin.com/in/shahab-imtiaz" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&logoColor=FFFFFF&logo=LinkedIn&color=0A66C2&label=" alt="Connect on LinkedIn" />
   </a>
 </p>
 
