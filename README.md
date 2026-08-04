@@ -9,12 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=shahabimtiaz&label=Profile%20views&color=0e75b6&style=flat" alt="shahabimtiaz profile views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shahabimtiaz" alt="shahabimtiaz trophies" />
-  </a>
-</p>
-
 ### 👋 About Me
 
 Full-stack web developer with **5+ years of experience** building responsive, production-grade web applications end-to-end — from database design and API architecture through to deployment. I specialize in the **MERN stack** and **PHP Laravel**, and have delivered projects for clients through Upwork and Fiverr.
