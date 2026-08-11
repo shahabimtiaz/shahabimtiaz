@@ -6,9 +6,7 @@
 <h3 align="center">MERN Stack & PHP Laravel Developer</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+%26+Laravel+Developer;7%2B+Years+Building+Web+%26+Mobile+Apps;Open+to+New+Freelance+Projects" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Full-Stack+MERN+%26+Laravel+Developer;Building+APIs%2C+CRMs+%26+Mobile+Apps;React%2C+React+Native+%26+Node.js+Specialist;Open+to+Freelance+Projects+on+Upwork+%26+Fiverr" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -23,20 +21,25 @@ Full-stack web developer with **7+ years of experience** building responsive, pr
 - 🚀 RESTful APIs and microservices architectures
 - 💻 MERN stack development (MongoDB, Express.js, React.js, Node.js)
 - 🔧 PHP Laravel for robust backend solutions
+- 🤖 AI-integrated platforms: LLM workflows, retrieval, and voice experiences
+- 📲 Cross-platform mobile apps with React Native & Expo
+- ⚡ Type-safe development with TypeScript
 - 📊 Database design, optimization, and management
 - 🔐 Authentication and authorization systems
-- 🤖 AI-integrated platforms and LLM-powered tooling
 - 🛠️ CI/CD pipelines
 - 📱 Progressive Web Apps (PWAs) and mobile-responsive design
 - 🌐 SEO best practices and web performance optimization
 
-📫 **Want to work together?** I'm a full-stack MERN & Laravel developer available for freelance projects — message me on [Upwork](https://www.upwork.com/freelancers/~01a5479fd2d6c87165) or [Fiverr](https://www.fiverr.com/shahabimtiaz76) to discuss scope, timeline, and approach.
+📫 **Want to work together?** Message me on Upwork or Fiverr to discuss your project, or browse my portfolio below for examples of recent work — happy to talk through scope, timeline, and approach.
 
 <p align="left">
+  <a href="https://www.shahabimtiaz.dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&logoColor=FFFFFF&color=0e75b6&label=" alt="View my Portfolio" />
+  </a>
   <a href="https://www.upwork.com/freelancers/~01a5479fd2d6c87165" target="_blank">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hire+on+Upwork&logoColor=FFFFFF&logo=Upwork&color=6FDA44&label=" alt="Hire me on Upwork" />
   </a>
-  <a href="https://www.fiverr.com/shahabimtiaz76" target="_blank">
+  <a href="https://www.fiverr.com/sellers/shahabimtiaz76" target="_blank">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hire+on+Fiverr&logoColor=FFFFFF&logo=Fiverr&color=1DBF73&label=" alt="Hire me on Fiverr" />
   </a>
   <a href="https://www.linkedin.com/in/shahab-imtiaz" target="_blank">
@@ -46,17 +49,21 @@ Full-stack web developer with **7+ years of experience** building responsive, pr
 
 ---
 
-### 💼 What I Build
+### 💼 Featured Work
 
-A snapshot of the kind of work that keeps landing on my desk:
+A few recent builds — full case studies and more (healthcare, AI, fintech, mobile) at **[shahabimtiaz.dev](https://www.shahabimtiaz.dev)**:
 
-- 🏥 **CRM & Business Platforms** — client and booking management systems (Next.js, Supabase, Stripe)
-- 🏦 **Financial & Reporting Tools** — structured, formula-driven reporting workbooks for finance-sector clients
-- 🎓 **AI-Integrated Platforms** — eLearning and orchestration tools combining LLMs, real-time AI avatars, and LMS integrations (Next.js, Supabase, Redis)
-- 📱 **Cross-Platform Mobile Apps** — React Native/Expo apps, from crowdsourced data tools to internal business apps
-- 🔄 **Legacy Migrations** — moving codebases off vanilla JS, WordPress, or Replit onto modern, maintainable stacks (Next.js, AWS)
+**[KissanKart Marketplace](https://www.shahabimtiaz.dev/projects/kissankart-agriculture-marketplace)** — Multi-category agriculture marketplace for discovering, comparing, buying, renting, and financing machinery across Pakistan.
+`WordPress` `PHP` `JavaScript` `Leaflet`
 
-<!-- TODO(Shahab): once you have client sign-off, swap 2-4 of these for real project cards -- name, 1-line result, and a live link or screenshot. Specific proof converts visitors into leads better than categories do. -->
+**[MaisonKit Modular Homes](https://www.shahabimtiaz.dev/projects/maisonkit-modular-homes-platform)** — Property platform combining a model catalogue, price configurator, interactive land search, and 3D planning tools.
+`WordPress` `PHP` `MySQL` `Leaflet`
+
+**[Elleo Global Customs Brokerage](https://www.shahabimtiaz.dev/projects/elleo-global-customs-brokerage)** — B2B site for a customs brokerage, built to clarify services and route visitors to the right contact.
+`Next.js` `Supabase` `TypeScript` `Vercel`
+
+**[Alma Medical Miami](https://www.shahabimtiaz.dev/projects/alma-medical-miami)** — Patient-focused healthcare site organizing services and multiple locations around fast paths to care.
+`Next.js` `Supabase` `TypeScript` `Accessibility`
 
 ---
 
@@ -104,7 +111,7 @@ A snapshot of the kind of work that keeps landing on my desk:
 **Databases & Cloud**
 
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&logoColor=FFFFFF&logo=MongoDB&color=47A248&label=)
-![Supabase](https://img.shields.io/static/v1?style=for-the-badge&message=Supabase&logoColor=FFFFFF&logo=Supabase&color=3ECF8E&label=)
+![Supabase](https://img.shields.io/static/v1?style=for-the-badge&message=Supabase&logoColor=FFFFFF&logo=Supabase&color=3FCF8E&label=)
 ![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&logoColor=FFFFFF&logo=Amazon+AWS&color=232F3E&label=)
 ![Amazon DynamoDB](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+DynamoDB&logoColor=FFFFFF&logo=Amazon+DynamoDB&color=4053D6&label=)
 ![Amazon S3](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+S3&logoColor=FFFFFF&logo=Amazon+S3&color=569A31&label=)
@@ -146,6 +153,8 @@ A snapshot of the kind of work that keeps landing on my desk:
 
 ### 📊 GitHub Stats
 
+
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shahabimtiaz&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&cache_seconds=86400" alt="shahabimtiaz's GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahabimtiaz&theme=highcontrast&show_icons=true&hide_border=true&layout=compact&cache_seconds=86400" alt="shahabimtiaz's Top Languages" height="165"/>
@@ -158,5 +167,5 @@ A snapshot of the kind of work that keeps landing on my desk:
 ---
 
 <p align="center">
-  <i>Thanks for stopping by — let's build something great together 🚀</i>
+  <i>Thanks for stopping by — let's build something great together! 🚀</i>
 </p>
