@@ -6,12 +6,18 @@
 <h3 align="center">MERN Stack & PHP Laravel Developer</h3>
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+%26+Laravel+Developer;7%2B+Years+Building+Web+%26+Mobile+Apps;Open+to+New+Freelance+Projects" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=shahabimtiaz&label=Profile%20views&color=0e75b6&style=flat" alt="shahabimtiaz profile views" />
 </p>
 
 ### 👋 About Me
 
-Full-stack web developer with **5+ years of experience** building responsive, production-grade web applications end-to-end — from database design and API architecture through to deployment. I specialize in the **MERN stack** and **PHP Laravel**, and have delivered projects for clients through Upwork and Fiverr.
+Full-stack web developer with **7+ years of experience** building responsive, production-grade web applications end-to-end — from database design and API architecture through to deployment. I specialize in the **MERN stack** and **PHP Laravel**, and have delivered projects for clients through Upwork and Fiverr.
 
 - 🌟 Responsive and interactive web applications
 - 🚀 RESTful APIs and microservices architectures
@@ -19,11 +25,12 @@ Full-stack web developer with **5+ years of experience** building responsive, pr
 - 🔧 PHP Laravel for robust backend solutions
 - 📊 Database design, optimization, and management
 - 🔐 Authentication and authorization systems
+- 🤖 AI-integrated platforms and LLM-powered tooling
 - 🛠️ CI/CD pipelines
 - 📱 Progressive Web Apps (PWAs) and mobile-responsive design
 - 🌐 SEO best practices and web performance optimization
 
-📫 **Want to work together?** Message me on Upwork or Fiverr to discuss your project — happy to talk through scope, timeline, and approach there.
+📫 **Want to work together?** I'm a full-stack MERN & Laravel developer available for freelance projects — message me on [Upwork](https://www.upwork.com/freelancers/~01a5479fd2d6c87165) or [Fiverr](https://www.fiverr.com/shahabimtiaz76) to discuss scope, timeline, and approach.
 
 <p align="left">
   <a href="https://www.upwork.com/freelancers/~01a5479fd2d6c87165" target="_blank">
@@ -36,6 +43,20 @@ Full-stack web developer with **5+ years of experience** building responsive, pr
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&logoColor=FFFFFF&logo=LinkedIn&color=0A66C2&label=" alt="Connect on LinkedIn" />
   </a>
 </p>
+
+---
+
+### 💼 What I Build
+
+A snapshot of the kind of work that keeps landing on my desk:
+
+- 🏥 **CRM & Business Platforms** — client and booking management systems (Next.js, Supabase, Stripe)
+- 🏦 **Financial & Reporting Tools** — structured, formula-driven reporting workbooks for finance-sector clients
+- 🎓 **AI-Integrated Platforms** — eLearning and orchestration tools combining LLMs, real-time AI avatars, and LMS integrations (Next.js, Supabase, Redis)
+- 📱 **Cross-Platform Mobile Apps** — React Native/Expo apps, from crowdsourced data tools to internal business apps
+- 🔄 **Legacy Migrations** — moving codebases off vanilla JS, WordPress, or Replit onto modern, maintainable stacks (Next.js, AWS)
+
+<!-- TODO(Shahab): once you have client sign-off, swap 2-4 of these for real project cards -- name, 1-line result, and a live link or screenshot. Specific proof converts visitors into leads better than categories do. -->
 
 ---
 
@@ -73,6 +94,7 @@ Full-stack web developer with **5+ years of experience** building responsive, pr
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&logoColor=FFFFFF&logo=Node.js&color=339933&label=)
 ![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&logoColor=000000&logo=Express&color=CA4245&label=)
 ![NestJS](https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&logoColor=FFFFFF&logo=NestJS&color=E0234E&label=)
+![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&logoColor=FFFFFF&logo=Laravel&color=FF2D20&label=)
 ![GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&logoColor=FFFFFF&logo=GraphQL&color=E10098&label=)
 ![Apollo GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=Apollo+GraphQL&logoColor=FFFFFF&logo=Apollo+GraphQL&color=311C87&label=)
 ![JSON Web Tokens](https://img.shields.io/static/v1?style=for-the-badge&message=JSON+Web+Tokens&logoColor=FFFFFF&logo=JSON+Web+Tokens&color=000000&label=)
@@ -82,6 +104,7 @@ Full-stack web developer with **5+ years of experience** building responsive, pr
 **Databases & Cloud**
 
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&logoColor=FFFFFF&logo=MongoDB&color=47A248&label=)
+![Supabase](https://img.shields.io/static/v1?style=for-the-badge&message=Supabase&logoColor=FFFFFF&logo=Supabase&color=3ECF8E&label=)
 ![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&logoColor=FFFFFF&logo=Amazon+AWS&color=232F3E&label=)
 ![Amazon DynamoDB](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+DynamoDB&logoColor=FFFFFF&logo=Amazon+DynamoDB&color=4053D6&label=)
 ![Amazon S3](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+S3&logoColor=FFFFFF&logo=Amazon+S3&color=569A31&label=)
@@ -124,10 +147,16 @@ Full-stack web developer with **5+ years of experience** building responsive, pr
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahabimtiaz&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="shahabimtiaz's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahabimtiaz&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="shahabimtiaz's Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shahabimtiaz&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&cache_seconds=86400" alt="shahabimtiaz's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahabimtiaz&theme=highcontrast&show_icons=true&hide_border=true&layout=compact&cache_seconds=86400" alt="shahabimtiaz's Top Languages" height="165"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahabimtiaz&theme=highcontrast&hide_border=true" alt="shahabimtiaz's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=shahabimtiaz&theme=highcontrast&hide_border=true" alt="shahabimtiaz's GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for stopping by — let's build something great together 🚀</i>
 </p>
