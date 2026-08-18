@@ -6,7 +6,7 @@
 <h3 align="center">MERN Stack & PHP Laravel Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Full-Stack+MERN+%26+Laravel+Developer;Building+APIs%2C+CRMs+%26+Mobile+Apps;React%2C+React+Native+%26+Node.js+Specialist;Open+to+Freelance+Projects+on+Upwork+%26+Fiverr" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Full-Stack+MERN+%26+Laravel+Developer;Building+APIs%2C+CRMs+%26+Mobile+Apps;React%2C+React+Native+%26+Node.js+Specialist;Open+to+Freelance+Projects+on+Upwork" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ### 👋 About Me
 
-Full-stack web developer with **7+ years of experience** building responsive, production-grade web applications end-to-end — from database design and API architecture through to deployment. I specialize in the **MERN stack** and **PHP Laravel**, and have delivered projects for clients through Upwork and Fiverr.
+Full-stack web developer with **7+ years of experience** building responsive, production-grade web applications end-to-end — from database design and API architecture through to deployment. I specialize in the **MERN stack** and **PHP Laravel**, and have delivered projects for clients through Upwork.
 
 - 🌟 Responsive and interactive web applications
 - 🚀 RESTful APIs and microservices architectures
@@ -30,7 +30,7 @@ Full-stack web developer with **7+ years of experience** building responsive, pr
 - 📱 Progressive Web Apps (PWAs) and mobile-responsive design
 - 🌐 SEO best practices and web performance optimization
 
-📫 **Want to work together?** Message me on Upwork or Fiverr to discuss your project, or browse my portfolio below for examples of recent work — happy to talk through scope, timeline, and approach.
+📫 **Want to work together?** Message me on Upwork to discuss your project, or browse my portfolio below for examples of recent work — happy to talk through scope, timeline, and approach.
 
 <p align="left">
   <a href="https://www.shahabimtiaz.dev" target="_blank">
@@ -38,9 +38,6 @@ Full-stack web developer with **7+ years of experience** building responsive, pr
   </a>
   <a href="https://www.upwork.com/freelancers/~01a5479fd2d6c87165" target="_blank">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hire+on+Upwork&logoColor=FFFFFF&logo=Upwork&color=6FDA44&label=" alt="Hire me on Upwork" />
-  </a>
-  <a href="https://www.fiverr.com/sellers/shahabimtiaz76" target="_blank">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hire+on+Fiverr&logoColor=FFFFFF&logo=Fiverr&color=1DBF73&label=" alt="Hire me on Fiverr" />
   </a>
   <a href="https://www.linkedin.com/in/shahab-imtiaz" target="_blank">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&logoColor=FFFFFF&logo=LinkedIn&color=0A66C2&label=" alt="Connect on LinkedIn" />
@@ -152,8 +149,6 @@ A few recent builds — full case studies and more (healthcare, AI, fintech, mob
 ---
 
 ### 📊 GitHub Stats
-
-
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shahabimtiaz&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&cache_seconds=86400" alt="shahabimtiaz's GitHub stats" height="165"/>
